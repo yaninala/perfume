@@ -1,0 +1,175 @@
+body {
+	background-color: #F1DEE1;
+	width: 1440px;
+	height: 1080px;
+	position: relative;
+}
+
+.canvas {
+	position: absolute;
+	width: 1238px;
+	height: 775px;
+	left: 101px;
+	top: 153px;
+	background: #FFFFFF;
+	box-shadow: 0px 2px 104px 1px rgba(95, 64, 64, 0.166767);
+}
+
+.menu {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	margin-left: 74px;
+	margin-top: 42px;
+}
+
+.victoria {
+	position: absolute;
+	font-family: 'Rubik', sans-serif;
+	text-transform: uppercase;
+	color: #151618;
+	font-size: 36px;
+	margin-left: 199px;
+	margin-top: 46px;
+}
+
+.line {
+	position: absolute;
+	height: 26px;
+	left: 398px;
+	top: 54px;
+	border: 1px solid #979797;
+}
+
+.secret {
+	position: absolute;
+	font-family: 'Rubik', sans-serif;
+	font-size: 13px;
+	color: #A0A0A0;
+	margin-top: 52px;
+	margin-left: 413px;
+	width: 55px;
+}
+
+.name {
+	position: absolute;
+	font-family: 'Rubik', sans-serif;
+	font-size: 96px;
+	color: #151618;
+	margin-left: 186px;
+	margin-top: 260px;
+}
+
+.text {
+	position: absolute;
+	margin-left: 194px;
+	margin-top: 399px;
+	width: 400px;
+	font-family: Rubik;
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 25px;
+	color: #151618;
+	opacity: 0.4;
+}
+
+.perfume {
+	position: absolute;
+	width: 338px;
+	height: 473px;
+	margin-top: 151px;
+	margin-left: 826px;
+	z-index: 1;	
+}
+
+.pink {
+	position: absolute;
+	width: 527px;
+	height: 320px;
+	margin-left: 711px;
+	margin-top: 223px;
+	background: #FFC5CC;
+}
+
+.rose {
+	position: absolute;
+	width: 238px;
+	height: 197px;
+	margin-left: 684px;
+	margin-top: 427px;
+}
+.shadow {
+	position: absolute;
+	width: 175px;
+	height: 37px;
+	margin-top:592px;
+	margin-left:721px;
+}
+
+button {
+	position: absolute;
+	width: 180px;
+	height: 52px;
+	margin-left:194px;
+	margin-top:481px;
+	background: #B61428;
+	border-radius: 26px;
+	color: white;
+	font-family: 'Rubik', sans-serif;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.linetwo {
+	position: absolute;
+	width: 1px;
+	height: 100px;
+	margin-left: 98px;
+	margin-top: 338px;
+	background: #484848;
+}
+
+.links {
+	position: absolute;
+	display: flex;
+	list-style: none;
+	margin-left: 711px;
+	margin-right:221px;
+	margin-top: 57px;
+}
+
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #6A6768;
+	margin-right: 50px;
+	font-family: 'Rubik', sans-serif;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.bag {
+	width: 47px;
+	position: absolute;
+	margin-left: 1117px;
+	margin-top: 42px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
